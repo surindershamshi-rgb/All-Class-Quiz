@@ -78,3 +78,20 @@ function exportCSV(data){
 function restartQuiz(){ location.reload(); }
 
 updateLeaderboard();
+function startQuiz(){
+  let classVal = document.getElementById("classSelect").value.replace("Class ","class");
+  let subjectVal = document.getElementById("subjectSelect").value;
+  let lessonVal = "lesson1"; // You can add lesson dropdown later
+
+  let filePath = `questions/${classVal}_${subjectVal}_${lessonVal}.json`;
+
+  fetch(filePath)
+    .then(res => res.json())
+    .then(data => {
+      quizData = data;
+      document.querySelector(".container").style.display="none";
+      document.getElementById("quizScreen").classList.remove("hidden");
+      loadQuestion();
+    })
+    .catch(()=>alert("Question file not found!"));
+}
