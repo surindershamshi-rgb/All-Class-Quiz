@@ -1,109 +1,100 @@
-function startQuiz(){
-  let classVal = document.getElementById("classSelect").value;
+let quizData = [];
+let current = 0;
+let score = 0;
+let selected = null;
+
+// START QUIZ
+function startQuiz() {
+  let classVal = document.getElementById("classSelect").value.replace("Class ", "class");
   let subjectVal = document.getElementById("subjectSelect").value;
   let lessonVal = "lesson1";
 
-  if(!classVal || !subjectVal){
+  if (!classVal || !subjectVal) {
     alert("Please select class and subject");
     return;
   }
 
   let filePath = `questions/${classVal}_${subjectVal}_${lessonVal}.json`;
 
-  console.log("Loading file:", filePath); // 🔍 Debug line
-
   fetch(filePath)
     .then(res => res.json())
     .then(data => {
       quizData = data;
-      document.querySelector(".container").style.display="none";
+      document.querySelector(".container").style.display = "none";
       document.getElementById("quizScreen").classList.remove("hidden");
       loadQuestion();
     })
-    .catch(err=>{
-      alert("Question file not found!");
-      console.error(err);
-      let quizData = [
-  { question: "Capital of India?", options: ["Mumbai","Delhi","Chennai","Kolkata"], answer: 1 },
-  { question: "Who wrote A Letter to God?", options: ["Tagore","Fuentes","Shakespeare","Bond"], answer: 1 }
-];
-
-let current = 0, score = 0, selected = null;
-
-function startQuiz(){
-  document.querySelector(".container").style.display = "none";
-  document.getElementById("quizScreen").classList.remove("hidden");
-  loadQuestion();
+    .catch(() => alert("Question file not found! Check file name."));
 }
 
-function loadQuestion(){
+// LOAD QUESTION
+function loadQuestion() {
   selected = null;
   let q = quizData[current];
-  document.getElementById("question").innerText = q.question;
+
+  document.getElementById("question").innerHTML =
+    `<b>${q.question_en}</b><br><span style="color:gray">${q.question_hi}</span>`;
+
   let optDiv = document.getElementById("options");
   optDiv.innerHTML = "";
-  q.options.forEach((opt,i)=>{
+
+  q.options_en.forEach((opt, i) => {
     let d = document.createElement("div");
-    d.innerText = opt;
-    d.className="option";
-    d.onclick=()=>selected=i;
+    d.className = "option";
+    d.innerHTML = `${opt}<br><span style="color:gray">${q.options_hi[i]}</span>`;
+    d.onclick = () => selected = i;
     optDiv.appendChild(d);
   });
 }
 
-function nextQuestion(){
-  if(selected===quizData[current].answer) score++;
+// NEXT QUESTION
+function nextQuestion() {
+  if (selected === quizData[current].answer) score++;
+
   current++;
-  if(current<quizData.length) loadQuestion();
+
+  if (current < quizData.length) loadQuestion();
   else finishQuiz();
 }
 
-function finishQuiz(){
+// FINISH QUIZ
+function finishQuiz() {
   document.getElementById("quizScreen").classList.add("hidden");
   document.getElementById("resultScreen").classList.remove("hidden");
-  document.getElementById("resultText").innerText="Score: "+score;
+  document.getElementById("resultText").innerText = "Score: " + score;
 
   saveResult();
 }
 
-function saveResult(){
-  let name=document.getElementById("studentName").value;
-  let classVal=document.getElementById("classSelect").value;
-  let subject=document.getElementById("subjectSelect").value;
+// SAVE RESULT + LEADERBOARD
+function saveResult() {
+  let name = document.getElementById("studentName").value;
+  let classVal = document.getElementById("classSelect").value;
+  let subject = document.getElementById("subjectSelect").value;
 
-  let records=JSON.parse(localStorage.getItem("records")||"[]");
-  records.push({name,classVal,subject,score});
-  localStorage.setItem("records",JSON.stringify(records));
-  updateLeaderboard();
-  exportCSV(records);
+  let records = JSON.parse(localStorage.getItem("records") || "[]");
+  records.push({ name, classVal, subject, score });
+  localStorage.setItem("records", JSON.stringify(records));
+
+  updateLeaderboard(records);
 }
 
-function updateLeaderboard(){
-  let list=document.getElementById("leaderboardList");
-  list.innerHTML="";
-  let records=JSON.parse(localStorage.getItem("records")||"[]");
-  records.sort((a,b)=>b.score-a.score);
-  records.slice(0,5).forEach(r=>{
-    let li=document.createElement("li");
-    li.innerText=`${r.name} (${r.score})`;
+// UPDATE LEADERBOARD
+function updateLeaderboard(records = JSON.parse(localStorage.getItem("records") || "[]")) {
+  let list = document.getElementById("leaderboardList");
+  list.innerHTML = "";
+
+  records.sort((a, b) => b.score - a.score);
+  records.slice(0, 5).forEach(r => {
+    let li = document.createElement("li");
+    li.innerText = `${r.name} (${r.score})`;
     list.appendChild(li);
   });
 }
 
-function exportCSV(data){
-  let csv="Name,Class,Subject,Score\n";
-  data.forEach(r=>{ csv+=`${r.name},${r.classVal},${r.subject},${r.score}\n`; });
-  let blob=new Blob([csv],{type:"text/csv"});
-  let a=document.createElement("a");
-  a.href=URL.createObjectURL(blob);
-  a.download="Student_Records.csv";
-  a.click();
+// RESTART
+function restartQuiz() {
+  location.reload();
 }
-
-function restartQuiz(){ location.reload(); }
 
 updateLeaderboard();
-
-    });
-}
-
