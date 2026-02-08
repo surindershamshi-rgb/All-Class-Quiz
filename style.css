@@ -1,5 +1,9 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
 body {
-  font-family: Arial;
   margin: 0;
   background: linear-gradient(to right, #dbeafe, #fef9c3);
 }
@@ -14,6 +18,7 @@ body {
 .container {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
   padding: 20px;
 }
 
@@ -23,12 +28,14 @@ body {
   border-radius: 12px;
   border: 3px solid #2563eb;
   width: 300px;
+  margin: 10px;
 }
 
 input, select {
   width: 100%;
   padding: 8px;
   margin: 8px 0;
+  border-radius: 6px;
 }
 
 button {
@@ -41,11 +48,34 @@ button {
   cursor: pointer;
 }
 
-.hidden { display: none; }
+button:hover {
+  background: #15803d;
+}
+
+.hidden {
+  display: none;
+}
+
 .option {
+  display: block;
   background: #e0f2fe;
-  margin: 5px;
+  margin: 6px 0;
   padding: 8px;
   border-radius: 6px;
   cursor: pointer;
+  text-align: left;
+}
+
+.option:hover {
+  background: #bae6fd;
+}
+
+#quizScreen, #resultScreen {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+
+.leaderboard ul {
+  padding-left: 20px;
 }
