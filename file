@@ -1,0 +1,18 @@
+/ (root)
+├── index.html
+├── style.css
+├── script.js
+└── questions/
+      ├── class6/
+      │     ├── english/
+      │     │      └── lesson1.json
+      │     └── social/
+      │            └── lesson1.json
+      │
+      ├── class7/
+      │     └── english/
+      │            └── lesson1.json
+      │
+      └── class10/
+            └── english/
+                   └── lesson1.json
