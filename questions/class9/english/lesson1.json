@@ -1,0 +1,106 @@
+[
+  {
+    "question_en": "Who is the author of 'The Fun They Had'?",
+    "question_hi": "'The Fun They Had' के लेखक कौन हैं?",
+    "options_en": ["Isaac Asimov", "Ruskin Bond", "R.K. Narayan", "H.G. Wells"],
+    "options_hi": ["आइज़ैक असिमोव", "रस्किन बॉन्ड", "आर. के. नारायण", "एच. जी. वेल्स"],
+    "answer": 0
+  },
+  {
+    "question_en": "What was Margie’s age?",
+    "question_hi": "मार्जी की उम्र क्या थी?",
+    "options_en": ["9 years", "10 years", "11 years", "13 years"],
+    "options_hi": ["9 वर्ष", "10 वर्ष", "11 वर्ष", "13 वर्ष"],
+    "answer": 2
+  },
+  {
+    "question_en": "Who found the real book?",
+    "question_hi": "असली किताब किसे मिली?",
+    "options_en": ["Margie", "Tommy", "County Inspector", "Teacher"],
+    "options_hi": ["मार्जी", "टॉमी", "काउंटी इंस्पेक्टर", "शिक्षक"],
+    "answer": 1
+  },
+  {
+    "question_en": "Where was Margie’s school?",
+    "question_hi": "मार्जी का स्कूल कहाँ था?",
+    "options_en": ["In a building", "In the attic", "Next to her bedroom", "In the village"],
+    "options_hi": ["इमारत में", "अटारी में", "उसके बेडरूम के पास", "गाँव में"],
+    "answer": 2
+  },
+  {
+    "question_en": "What kind of teacher did Margie have?",
+    "question_hi": "मार्जी के पास किस प्रकार का शिक्षक था?",
+    "options_en": ["Human teacher", "Mechanical teacher", "Robot friend", "Online tutor"],
+    "options_hi": ["मानव शिक्षक", "यांत्रिक शिक्षक", "रोबोट मित्र", "ऑनलाइन शिक्षक"],
+    "answer": 1
+  },
+  {
+    "question_en": "What was the book about?",
+    "question_hi": "किताब किस बारे में थी?",
+    "options_en": ["Old schools", "Future robots", "Space travel", "History"],
+    "options_hi": ["पुराने स्कूल", "भविष्य के रोबोट", "अंतरिक्ष यात्रा", "इतिहास"],
+    "answer": 0
+  },
+  {
+    "question_en": "Why did Margie hate school?",
+    "question_hi": "मार्जी स्कूल से नफरत क्यों करती थी?",
+    "options_en": ["Too many students", "Mechanical teacher gave tests", "Long distance", "No friends"],
+    "options_hi": ["बहुत छात्र थे", "यांत्रिक शिक्षक टेस्ट देता था", "बहुत दूर था", "कोई दोस्त नहीं"],
+    "answer": 1
+  },
+  {
+    "question_en": "Who repaired Margie’s mechanical teacher?",
+    "question_hi": "मार्जी के यांत्रिक शिक्षक को किसने ठीक किया?",
+    "options_en": ["Tommy", "Her mother", "County Inspector", "Her father"],
+    "options_hi": ["टॉमी", "उसकी माँ", "काउंटी इंस्पेक्टर", "उसके पिता"],
+    "answer": 2
+  },
+  {
+    "question_en": "What did the County Inspector do?",
+    "question_hi": "काउंटी इंस्पेक्टर ने क्या किया?",
+    "options_en": ["Removed the teacher", "Adjusted the geography sector", "Changed the book", "Closed the school"],
+    "options_hi": ["शिक्षक हटाया", "भूगोल सेक्टर ठीक किया", "किताब बदली", "स्कूल बंद किया"],
+    "answer": 1
+  },
+  {
+    "question_en": "What did Margie think about old schools?",
+    "question_hi": "मार्जी पुराने स्कूलों के बारे में क्या सोचती थी?",
+    "options_en": ["They were boring", "They were fun", "They were dangerous", "They were useless"],
+    "options_hi": ["वे उबाऊ थे", "वे मजेदार थे", "वे खतरनाक थे", "वे बेकार थे"],
+    "answer": 1
+  },
+  {
+    "question_en": "What was Tommy’s age?",
+    "question_hi": "टॉमी की उम्र क्या थी?",
+    "options_en": ["11 years", "12 years", "13 years", "14 years"],
+    "options_hi": ["11 वर्ष", "12 वर्ष", "13 वर्ष", "14 वर्ष"],
+    "answer": 2
+  },
+  {
+    "question_en": "How were old schools different?",
+    "question_hi": "पुराने स्कूल कैसे अलग थे?",
+    "options_en": ["Students studied together", "Only robots taught", "No teachers", "Online classes"],
+    "options_hi": ["छात्र साथ पढ़ते थे", "केवल रोबोट पढ़ाते थे", "कोई शिक्षक नहीं", "ऑनलाइन कक्षाएँ"],
+    "answer": 0
+  },
+  {
+    "question_en": "Where did Tommy find the book?",
+    "question_hi": "टॉमी को किताब कहाँ मिली?",
+    "options_en": ["In the attic", "In the library", "In the classroom", "In the market"],
+    "options_hi": ["अटारी में", "पुस्तकालय में", "कक्षा में", "बाज़ार में"],
+    "answer": 0
+  },
+  {
+    "question_en": "What did Margie write in her diary?",
+    "question_hi": "मार्जी ने अपनी डायरी में क्या लिखा?",
+    "options_en": ["She hated school", "They had fun at school", "She loved robots", "She missed Tommy"],
+    "options_hi": ["उसे स्कूल से नफरत थी", "उन्हें स्कूल में मज़ा आया", "उसे रोबोट पसंद थे", "उसे टॉमी की याद आई"],
+    "answer": 1
+  },
+  {
+    "question_en": "The story is set in which time?",
+    "question_hi": "कहानी किस समय की पृष्ठभूमि में है?",
+    "options_en": ["Past", "Present", "Future", "Ancient time"],
+    "options_hi": ["अतीत", "वर्तमान", "भविष्य", "प्राचीन काल"],
+    "answer": 2
+  }
