@@ -1,1 +1,554 @@
-
+{
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "The Fight",
+    "chapter_title_hindi": "लड़ाई",
+    "subject": "English Supplementary - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_SUPP_CH06_Fight_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How long had Ranji been in Rajpur before he discovered the pool?",
+        "hi": "राजपुर में रहने के कितने समय बाद रणजी ने तालाब की खोज की?"
+      },
+      "options": {
+        "a": {"en": "A month", "hi": "एक महीना"},
+        "b": {"en": "Less than a month", "hi": "एक महीने से भी कम"},
+        "c": {"en": "A year", "hi": "एक साल"},
+        "d": {"en": "A week", "hi": "एक हफ्ता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ranji had been in Rajpur for less than a month when he found the pool in the forest.",
+        "hi": "रणजी को राजपुर आए एक महीने से भी कम समय हुआ था जब उसे जंगल में तालाब मिला।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was the weather like when Ranji went into the forest?",
+        "hi": "जब रणजी जंगल में गया तो मौसम कैसा था?"
+      },
+      "options": {
+        "a": {"en": "Rainy and cold", "hi": "बरसात और ठंड"},
+        "b": {"en": "Very hot and dry", "hi": "बहुत गर्म और शुष्क"},
+        "c": {"en": "Pleasant and breezy", "hi": "सुखद और हवादार"},
+        "d": {"en": "Snowing", "hi": "बर्फबारी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "It was the height of summer, and the earth was parched and the grass brown.",
+        "hi": "यह गर्मी का चरम समय था, और धरती सूखी हुई थी और घास भूरी हो गई थी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "How was the pool in the forest different from the ones in the Rajputana desert?",
+        "hi": "जंगल का तालाब राजपूताना मरुस्थल के तालाबों से किस प्रकार भिन्न था?"
+      },
+      "options": {
+        "a": {"en": "It was saltier", "hi": "यह अधिक नमकीन था"},
+        "b": {"en": "It was muddy and sticky", "hi": "यह कीचड़ भरा और चिपचिपा था"},
+        "c": {"en": "The water was translucent and clean", "hi": "पानी पारभासी और साफ था"},
+        "d": {"en": "It was much smaller", "hi": "यह बहुत छोटा था"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Unlike the muddy pools in the desert where buffaloes wallowed, this pool had clear, cool water.",
+        "hi": "रेगिस्तान के कीचड़ भरे तालाबों के विपरीत जहाँ भैंसें लोटती थीं, इस तालाब का पानी साफ और ठंडा था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Who arrived at the pool while Ranji was resting?",
+        "hi": "जब रणजी आराम कर रहा था तब तालाब पर कौन आया?"
+      },
+      "options": {
+        "a": {"en": "His school friend", "hi": "उसका स्कूल का दोस्त"},
+        "b": {"en": "An older, taller boy", "hi": "एक बड़ा और लंबा लड़का"},
+        "c": {"en": "A forest guard", "hi": "एक वन रक्षक"},
+        "d": {"en": "A group of children", "hi": "बच्चों का एक समूह"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A taller, well-built boy named Suraj (the Warrior) arrived and challenged Ranji.",
+        "hi": "सूरज नाम का एक लंबा और कसरती शरीर वाला लड़का (योद्धा) वहाँ आया और उसने रणजी को चुनौती दी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What did the stranger call himself?",
+        "hi": "अजनबी ने खुद को क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "A Fighter", "hi": "एक फाइटर"},
+        "b": {"en": "A Warrior", "hi": "एक योद्धा (Warrior)"},
+        "c": {"en": "The King of the Forest", "hi": "जंगल का राजा"},
+        "d": {"en": "A Swimmer", "hi": "एक तैराक"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The other boy claimed he was a 'Warrior' to intimidate Ranji.",
+        "hi": "दूसरे लड़के ने रणजी को डराने के लिए दावा किया कि वह एक 'योद्धा' है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What did Ranji call himself in response to the stranger?",
+        "hi": "अजनबी के जवाब में रणजी ने खुद को क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "A Soldier", "hi": "एक सैनिक"},
+        "b": {"en": "A Fighter", "hi": "एक लड़ाका (Fighter)"},
+        "c": {"en": "A Prince", "hi": "एक राजकुमार"},
+        "d": {"en": "A Villager", "hi": "एक ग्रामीण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ranji matched the stranger's challenge by calling himself a 'Fighter'.",
+        "hi": "रणजी ने अजनबी की चुनौती का मुकाबला खुद को 'फाइटर' कह कर किया।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why did the fight start between the two boys?",
+        "hi": "दोनों लड़कों के बीच लड़ाई क्यों शुरू हुई?"
+      },
+      "options": {
+        "a": {"en": "Over a stolen bag", "hi": "चोरी हुए बैग को लेकर"},
+        "b": {"en": "Over who had the right to swim in the pool", "hi": "तालाब में तैरने के अधिकार को लेकर"},
+        "c": {"en": "Over a game of cricket", "hi": "क्रिकेट के खेल को लेकर"},
+        "d": {"en": "They didn't like each other's clothes", "hi": "उन्हें एक-दूसरे के कपड़े पसंद नहीं थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The stranger claimed the pool was his, while Ranji refused to leave.",
+        "hi": "अजनबी ने दावा किया कि तालाब उसका है, जबकि रणजी ने जाने से इनकार कर दिया।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The fight ended after the first day when _______.",
+        "hi": "पहले दिन की लड़ाई तब खत्म हुई जब _______।"
+      },
+      "options": {
+        "a": {"en": "One boy won", "hi": "एक लड़का जीत गया"},
+        "b": {"en": "They were both exhausted", "hi": "वे दोनों थक गए थे"},
+        "c": {"en": "The police came", "hi": "पुलिस आ गई"},
+        "d": {"en": "Ranji ran away", "hi": "रणजी भाग गया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "After violent exchange of blows, both were too tired to continue and decided to finish it the next day.",
+        "hi": "हिंसक प्रहारों के बाद, दोनों इतने थक गए थे कि जारी नहीं रख सके और अगले दिन इसे खत्म करने का फैसला किया।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did Ranji eat at the bazaar after the fight?",
+        "hi": "लड़ाई के बाद रणजी ने बाजार में क्या खाया?"
+      },
+      "options": {
+        "a": {"en": "Samosas and tea", "hi": "समोसे और चाय"},
+        "b": {"en": "Jalebis and a glass of lemon-squash", "hi": "जलेबियाँ और एक गिलास नींबू का शरबत"},
+        "c": {"en": "Burgers", "hi": "बर्गर"},
+        "d": {"en": "Ice cream", "hi": "आइसक्रीम"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "To comfort himself, Ranji had hot jalebis and a lemon-squash at the bazaar.",
+        "hi": "खुद को दिलासा देने के लिए, रणजी ने बाजार में गर्म जलेबियाँ और नींबू का शरबत पिया।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Why did Ranji not want to go back to the pool the next day?",
+        "hi": "रणजी अगले दिन वापस तालाब पर क्यों नहीं जाना चाहता था?"
+      },
+      "options": {
+        "a": {"en": "He was lazy", "hi": "वह आलसी था"},
+        "b": {"en": "His body was stiff and sore", "hi": "उसका शरीर अकड़ा हुआ और दर्द कर रहा था"},
+        "c": {"en": "He found a better pool", "hi": "उसे एक बेहतर तालाब मिल गया था"},
+        "d": {"en": "He was afraid of water", "hi": "वह पानी से डरता था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bruises and pain from the previous day's fight made it difficult for him to move.",
+        "hi": "पिछले दिन की लड़ाई के जख्मों और दर्द ने उसके लिए चलना मुश्किल कर दिया था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why did Ranji go back to the pool despite his pain?",
+        "hi": "दर्द के बावजूद रणजी वापस तालाब पर क्यों गया?"
+      },
+      "options": {
+        "a": {"en": "To apologize", "hi": "माफी मांगने के लिए"},
+        "b": {"en": "Because not showing up would mean defeat", "hi": "क्योंकि वहाँ न पहुँचने का मतलब हार होता"},
+        "c": {"en": "To bring his friends", "hi": "अपने दोस्तों को लाने के लिए"},
+        "d": {"en": "To collect his clothes", "hi": "अपने कपड़े लेने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ranji felt that surrendering without a fight would be a greater shame than losing a fight.",
+        "hi": "रणजी को लगा कि बिना लड़े हार मान लेना लड़ाई हारने से भी बड़ी शर्म की बात होगी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What skill of Ranji surprised the Warrior (Suraj)?",
+        "hi": "रणजी के किस कौशल ने योद्धा (सूरज) को हैरान कर दिया?"
+      },
+      "options": {
+        "a": {"en": "His boxing", "hi": "उसकी मुक्केबाजी"},
+        "b": {"en": "His diving and swimming underwater", "hi": "उसका गोता लगाना और पानी के अंदर तैरना"},
+        "c": {"en": "His running speed", "hi": "उसकी दौड़ने की गति"},
+        "d": {"en": "His singing", "hi": "उसका गायन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ranji dived perfectly and swam across the pool, which Suraj couldn't do.",
+        "hi": "रणजी ने बेहतरीन गोता लगाया और तैरकर तालाब पार किया, जो सूरज नहीं कर सका।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "How did the Warrior (Suraj) dive into the water?",
+        "hi": "योद्धा (सूरज) ने पानी में कैसे गोता लगाया?"
+      },
+      "options": {
+        "a": {"en": "Like a professional", "hi": "एक पेशेवर की तरह"},
+        "b": {"en": "He landed flat on his belly with a loud splash", "hi": "वह एक जोरदार आवाज के साथ पेट के बल गिरा"},
+        "c": {"en": "He refused to dive", "hi": "उसने गोता लगाने से मना कर दिया"},
+        "d": {"en": "He did a backflip", "hi": "उसने बैकफ्लिप किया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Suraj was strong but not a skilled diver; his attempt was clumsy.",
+        "hi": "सूरज मजबूत था लेकिन कुशल गोताखोर नहीं था; उसका प्रयास अनाड़ी था।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did Suraj ask Ranji to teach him?",
+        "hi": "सूरज ने रणजी से उसे क्या सिखाने के लिए कहा?"
+      },
+      "options": {
+        "a": {"en": "How to fight", "hi": "लड़ना कैसे है"},
+        "b": {"en": "How to dive and swim underwater", "hi": "गोता लगाना और पानी के अंदर तैरना"},
+        "c": {"en": "How to read", "hi": "पढ़ना कैसे है"},
+        "d": {"en": "How to play cricket", "hi": "क्रिकेट खेलना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Impressed by Ranji's skill, Suraj asked for lessons in diving.",
+        "hi": "रणजी के कौशल से प्रभावित होकर सूरज ने गोताखोरी सीखने की बात कही।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did Suraj offer to teach Ranji in return?",
+        "hi": "बदले में सूरज ने रणजी को क्या सिखाने की पेशकश की?"
+      },
+      "options": {
+        "a": {"en": "Mathematics", "hi": "गणित"},
+        "b": {"en": "Wrestling and how to become a 'Pahalwan'", "hi": "कुश्ती और 'पहलवान' कैसे बनें"},
+        "c": {"en": "Cooking", "hi": "खाना बनाना"},
+        "d": {"en": "Kabaddi", "hi": "कबड्डी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Suraj, being a wrestler, offered to help Ranji gain strength and learn wrestling.",
+        "hi": "सूरज ने, एक पहलवान होने के नाते, रणजी को ताकत हासिल करने और कुश्ती सीखने में मदद करने की पेशकश की।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did Suraj realize about Ranji's physical state?",
+        "hi": "सूरज ने रणजी की शारीरिक स्थिति के बारे में क्या महसूस किया?"
+      },
+      "options": {
+        "a": {"en": "Ranji was too fat", "hi": "रणजी बहुत मोटा था"},
+        "b": {"en": "Ranji was quite strong but thin", "hi": "रणजी काफी मजबूत था लेकिन पतला था"},
+        "c": {"en": "Ranji was lazy", "hi": "रणजी आलसी था"},
+        "d": {"en": "Ranji was sick", "hi": "रणजी बीमार था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Suraj admired Ranji's resilience and told him he should eat more to become a real wrestler.",
+        "hi": "सूरज ने रणजी की सहनशक्ति की प्रशंसा की और उससे कहा कि उसे असली पहलवान बनने के लिए और खाना चाहिए।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "How did the story end?",
+        "hi": "कहानी का अंत कैसे हुआ?"
+      },
+      "options": {
+        "a": {"en": "They became enemies forever", "hi": "वे हमेशा के लिए दुश्मन बन गए"},
+        "b": {"en": "The pool dried up", "hi": "तालाब सूख गया"},
+        "c": {"en": "They became friends and decided to share the pool", "hi": "वे दोस्त बन गए और तालाब साझा करने का फैसला किया"},
+        "d": {"en": "Ranji left the town", "hi": "रणजी ने शहर छोड़ दिया"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The two boys realized that they could help each other instead of fighting.",
+        "hi": "दोनों लड़कों ने महसूस किया कि वे लड़ने के बजाय एक-दूसरे की मदद कर सकते हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What was the name of the 'Warrior'?",
+        "hi": "'योद्धा' का नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Suraj", "hi": "सूरज"},
+        "b": {"en": "Anil", "hi": "अनिल"},
+        "c": {"en": "Mohan", "hi": "मोहन"},
+        "d": {"en": "The author doesn't say", "hi": "लेखक ने नहीं बताया"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The taller boy's name was Suraj.",
+        "hi": "लंबे लड़के का नाम सूरज था।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What does the pool represent in the story?",
+        "hi": "कहानी में तालाब किसका प्रतिनिधित्व करता है?"
+      },
+      "options": {
+        "a": {"en": "A place of conflict that turns into a place of friendship", "hi": "संघर्ष का स्थान जो मित्रता के स्थान में बदल जाता है"},
+        "b": {"en": "Danger", "hi": "खतरा"},
+        "c": {"en": "A magical portal", "hi": "एक जादुई द्वार"},
+        "d": {"en": "A business opportunity", "hi": "व्यापार का अवसर"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The pool is the central location where the boys first fight and then bond.",
+        "hi": "तालाब वह केंद्रीय स्थान है जहाँ लड़के पहले लड़ते हैं और फिर करीब आते हैं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did Ranji have to explain to his mother about his bruises?",
+        "hi": "रणजी को अपनी माँ को अपनी खरोंचों के बारे में क्या बताना पड़ा?"
+      },
+      "options": {
+        "a": {"en": "That he fell from a tree", "hi": "कि वह पेड़ से गिर गया"},
+        "b": {"en": "That he got into a fight", "hi": "कि उसकी लड़ाई हुई थी"},
+        "c": {"en": "He told a lie", "hi": "उसने झूठ बोला"},
+        "d": {"en": "He didn't have to explain anything", "hi": "उसे कुछ भी समझाने की जरूरत नहीं पड़ी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "It was difficult for him to conceal the fact that he had been in an unusually violent fight.",
+        "hi": "उसके लिए इस तथ्य को छिपाना मुश्किल था कि वह एक असामान्य रूप से हिंसक लड़ाई में शामिल था।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Ranji was _______ than Suraj.",
+        "hi": "रणजी सूरज की तुलना में _______ था।"
+      },
+      "options": {
+        "a": {"en": "Stronger", "hi": "अधिक मजबूत"},
+        "b": {"en": "Taller", "hi": "अधिक लंबा"},
+        "c": {"en": "Smaller and thinner", "hi": "छोटा और पतला"},
+        "d": {"en": "Older", "hi": "बड़ा (उम्र में)"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Ranji was younger and had a smaller build compared to Suraj's 'Warrior' physique.",
+        "hi": "सूरज की 'योद्धा' वाली कद-काठी की तुलना में रणजी छोटा और पतला था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Why did the Warrior think Ranji had no right to be at the pool?",
+        "hi": "योद्धा को क्यों लगा कि रणजी को तालाब पर रहने का कोई अधिकार नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Because Ranji didn't pay for it", "hi": "क्योंकि रणजी ने इसके लिए भुगतान नहीं किया था"},
+        "b": {"en": "Because the Warrior considered it 'his' pool", "hi": "क्योंकि योद्धा उसे 'अपना' तालाब मानता था"},
+        "c": {"en": "Because Ranji was a stranger", "hi": "क्योंकि रणजी एक अजनबी था"},
+        "d": {"en": "Both b and c", "hi": "b और c दोनों"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Suraj felt territorial about the pool and didn't like a stranger using it without permission.",
+        "hi": "सूरज तालाब को लेकर क्षेत्रीय महसूस कर रहा था और उसे पसंद नहीं आया कि कोई अजनबी बिना अनुमति के इसका उपयोग करे।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What did Ranji do when Suraj slapped him?",
+        "hi": "जब सूरज ने रणजी को थप्पड़ मारा तो रणजी ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He started crying", "hi": "वह रोने लगा"},
+        "b": {"en": "He hit him back with his fist", "hi": "उसने अपनी मुट्ठी से उसे वापस मारा"},
+        "c": {"en": "He ran away", "hi": "वह भाग गया"},
+        "d": {"en": "He called for help", "hi": "उसने मदद के लिए पुकारा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Despite being smaller, Ranji was brave and fought back immediately.",
+        "hi": "छोटा होने के बावजूद रणजी बहादुर था और उसने तुरंत पलटवार किया।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The second day, the boys did not fight because they _______.",
+        "hi": "दूसरे दिन लड़कों ने लड़ाई नहीं की क्योंकि वे _______।"
+      },
+      "options": {
+        "a": {"en": "Found a way to admire each other's skills", "hi": "एक-दूसरे के कौशल की प्रशंसा करने का तरीका ढूंढ लिया"},
+        "b": {"en": "Were too scared", "hi": "बहुत डरे हुए थे"},
+        "c": {"en": "Forgot why they were angry", "hi": "भूल गए कि वे गुस्से में क्यों थे"},
+        "d": {"en": "Were stopped by a teacher", "hi": "एक शिक्षक द्वारा रोक दिए गए"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Mutual admiration for each other's strengths led to friendship.",
+        "hi": "एक-दूसरे की ताकतों की आपसी प्रशंसा ने दोस्ती का मार्ग प्रशस्त किया।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What was the Warrior's reaction to Ranji's swimming underwater?",
+        "hi": "रणजी के पानी के नीचे तैरने पर योद्धा की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "He laughed", "hi": "वह हँसा"},
+        "b": {"en": "He was astonished", "hi": "वह चकित रह गया"},
+        "c": {"en": "He ignored it", "hi": "उसने इसे नजरअंदाज कर दिया"},
+        "d": {"en": "He got angry", "hi": "वह गुस्सा हो गया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Suraj was amazed because he thought Ranji had disappeared, only to see him surface behind him.",
+        "hi": "सूरज चकित था क्योंकि उसे लगा कि रणजी गायब हो गया है, लेकिन बाद में उसने उसे अपने पीछे सतह पर देखा।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What does Suraj want to become when he grows up?",
+        "hi": "सूरज बड़ा होकर क्या बनना चाहता है?"
+      },
+      "options": {
+        "a": {"en": "A world-champion wrestler", "hi": "एक विश्व चैंपियन पहलवान"},
+        "b": {"en": "A teacher", "hi": "एक शिक्षक"},
+        "c": {"en": "An architect", "hi": "एक वास्तुकार"},
+        "d": {"en": "A pilot", "hi": "एक पायलट"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Suraj mentions his ambition to be the best wrestler.",
+        "hi": "सूरज ने सर्वश्रेष्ठ पहलवान बनने की अपनी महत्वाकांक्षा का उल्लेख किया।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The boys decided that the pool was _______.",
+        "hi": "लड़कों ने फैसला किया कि तालाब _______ है।"
+      },
+      "options": {
+        "a": {"en": "Nobody's", "hi": "किसी का नहीं"},
+        "b": {"en": "Ours", "hi": "हमारा (Ours)"},
+        "c": {"en": "A dangerous place", "hi": "एक खतरनाक जगह"},
+        "d": {"en": "Too small", "hi": "बहुत छोटा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "By saying 'It is our pool,' they established a shared ownership and friendship.",
+        "hi": "'यह हमारा तालाब है' कहकर उन्होंने साझा स्वामित्व और मित्रता स्थापित की।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Where does the story take place?",
+        "hi": "यह कहानी कहाँ की है?"
+      },
+      "options": {
+        "a": {"en": "Dehra", "hi": "देहरा"},
+        "b": {"en": "Rajpur", "hi": "राजपुर"},
+        "c": {"en": "Shimla", "hi": "शिमला"},
+        "d": {"en": "Mussoorie", "hi": "मसूरी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The setting is the semi-hill station of Rajpur.",
+        "hi": "इसकी पृष्ठभूमि राजपुर का अर्ध-पर्वतीय स्थल है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who is the author of 'The Fight'?",
+        "hi": "'लड़ाई' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "b": {"en": "R.K. Narayan", "hi": "आर.के. नारायण"},
+        "c": {"en": "Khushwant Singh", "hi": "खुशवंत सिंह"},
+        "d": {"en": "Vikram Seth", "hi": "विक्रम सेठ"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Ruskin Bond is known for his stories set in the Indian hills.",
+        "hi": "रस्किन बॉन्ड भारतीय पहाड़ियों में रची गई अपनी कहानियों के लिए जाने जाते हैं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What message does the story convey?",
+        "hi": "यह कहानी क्या संदेश देती है?"
+      },
+      "options": {
+        "a": {"en": "Fighting is the best way to solve problems", "hi": "लड़ना समस्याओं को हल करने का सबसे अच्छा तरीका है"},
+        "b": {"en": "Friendship and cooperation are better than hostility", "hi": "दुश्मनी से बेहतर दोस्ती और सहयोग है"},
+        "c": {"en": "Never trust strangers", "hi": "अजनबियों पर कभी भरोसा न करें"},
+        "d": {"en": "Swimming is dangerous", "hi": "तैरना खतरनाक है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The transformation of enemies into friends shows the value of understanding others.",
+        "hi": "दुश्मनों का दोस्तों में बदलना दूसरों को समझने के महत्व को दर्शाता है।"
+      }
+    }
+  ]
+}
