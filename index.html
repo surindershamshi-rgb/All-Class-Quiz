@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GSSS Khalyani – Student Assessment Board</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- 🔷 HEADER -->
+  <div class="header">
+    <h1>🏫 GSSS KHALYANI</h1>
+    <h2>Student Assessment Board</h2>
+  </div>
+
+  <!-- 🔷 MAIN CONTAINER -->
+  <div class="container">
+
+    <!-- 🧑‍🎓 STUDENT CARD -->
+    <div class="card">
+      <h3>Student Details</h3>
+
+      <input type="text" id="studentName" placeholder="Enter Student Name" />
+
+      <!-- CLASS -->
+      <select id="classSelect">
+        <option value="">Select Class</option>
+        <option value="class6">Class 6</option>
+        <option value="class7">Class 7</option>
+        <option value="class8">Class 8</option>
+        <option value="class9">Class 9</option>
+        <option value="class10">Class 10</option>
+      </select>
+
+      <!-- SUBJECT -->
+      <select id="subjectSelect">
+        <option value="">Select Subject</option>
+        <option value="english">English</option>
+        <option value="social">Social Science</option>
+      </select>
+
+      <!-- LESSON -->
+      <select id="lessonSelect">
+        <option value="">Select Lesson</option>
+        <option value="lesson1">Lesson 1</option>
+        <option value="lesson2">Lesson 2</option>
+        <option value="lesson3">Lesson 3</option>
+      </select>
+
+      <button onclick="startQuiz()">🚀 Start Quiz</button>
+    </div>
+
+    <!-- 🏆 LEADERBOARD -->
+    <div class="leaderboard">
+      <h3>🏆 Leaderboard</h3>
+      <ul id="leaderboardList"></ul>
+    </div>
+
+  </div>
+
+  <!-- 🔷 QUIZ SCREEN -->
+  <div id="quizScreen" class="hidden">
+    <h2 id="question"></h2>
+    <div id="options"></div>
+    <button onclick="nextQuestion()">Next ➜</button>
+  </div>
+
+  <!-- 🔷 RESULT SCREEN -->
+  <div id="resultScreen" class="hidden">
+    <h2 id="resultText"></h2>
+    <button onclick="restartQuiz()">🔄 Back to Home</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
