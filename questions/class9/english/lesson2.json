@@ -1,0 +1,107 @@
+[
+  {
+    "question_en": "Who is the first part of 'The Sound of Music' about?",
+    "question_hi": "'The Sound of Music' का पहला भाग किसके बारे में है?",
+    "options_en": ["Bismillah Khan", "Evelyn Glennie", "Ustad Zakir Hussain", "Lata Mangeshkar"],
+    "options_hi": ["बिस्मिल्लाह खान", "एवलिन ग्लेनी", "उस्ताद ज़ाकिर हुसैन", "लता मंगेशकर"],
+    "answer": 1
+  },
+  {
+    "question_en": "What was Evelyn Glennie’s disability?",
+    "question_hi": "एवलिन ग्लेनी की क्या विकलांगता थी?",
+    "options_en": ["Blind", "Deaf", "Mute", "Lame"],
+    "options_hi": ["अंधी", "बहरी", "गूंगी", "लंगड़ी"],
+    "answer": 1
+  },
+  {
+    "question_en": "At what age did Evelyn lose her hearing?",
+    "question_hi": "एवलिन ने किस उम्र में अपनी सुनने की क्षमता खो दी?",
+    "options_en": ["5 years", "8 years", "11 years", "15 years"],
+    "options_hi": ["5 वर्ष", "8 वर्ष", "11 वर्ष", "15 वर्ष"],
+    "answer": 2
+  },
+  {
+    "question_en": "Who helped Evelyn to continue music?",
+    "question_hi": "एवलिन को संगीत जारी रखने में किसने मदद की?",
+    "options_en": ["Her mother", "Ron Forbes", "Her father", "Her friend"],
+    "options_hi": ["उसकी माँ", "रॉन फोर्ब्स", "उसके पिता", "उसका मित्र"],
+    "answer": 1
+  },
+  {
+    "question_en": "Which instrument did Evelyn play?",
+    "question_hi": "एवलिन कौन सा वाद्य यंत्र बजाती थी?",
+    "options_en": ["Violin", "Piano", "Xylophone", "Flute"],
+    "options_hi": ["वायलिन", "पियानो", "जाइलोफोन", "बांसुरी"],
+    "answer": 2
+  },
+  {
+    "question_en": "Where did Evelyn study music?",
+    "question_hi": "एवलिन ने संगीत की पढ़ाई कहाँ की?",
+    "options_en": ["Royal Academy of Music", "Oxford University", "Delhi University", "Cambridge"],
+    "options_hi": ["रॉयल अकादमी ऑफ म्यूज़िक", "ऑक्सफोर्ड विश्वविद्यालय", "दिल्ली विश्वविद्यालय", "कैम्ब्रिज"],
+    "answer": 0
+  },
+  {
+    "question_en": "Who is the second part of the lesson about?",
+    "question_hi": "पाठ का दूसरा भाग किसके बारे में है?",
+    "options_en": ["Bismillah Khan", "Evelyn Glennie", "Ravi Shankar", "Hari Prasad"],
+    "options_hi": ["बिस्मिल्लाह खान", "एवलिन ग्लेनी", "रवि शंकर", "हरि प्रसाद"],
+    "answer": 0
+  },
+  {
+    "question_en": "Which instrument made Bismillah Khan famous?",
+    "question_hi": "किस वाद्य यंत्र ने बिस्मिल्लाह खान को प्रसिद्ध बनाया?",
+    "options_en": ["Tabla", "Sitar", "Shehnai", "Flute"],
+    "options_hi": ["तबला", "सितार", "शहनाई", "बांसुरी"],
+    "answer": 2
+  },
+  {
+    "question_en": "Where was Bismillah Khan born?",
+    "question_hi": "बिस्मिल्लाह खान का जन्म कहाँ हुआ था?",
+    "options_en": ["Varanasi", "Dumraon", "Delhi", "Lucknow"],
+    "options_hi": ["वाराणसी", "डुमरांव", "दिल्ली", "लखनऊ"],
+    "answer": 1
+  },
+  {
+    "question_en": "At which famous place did Bismillah Khan often perform?",
+    "question_hi": "बिस्मिल्लाह खान अक्सर किस प्रसिद्ध स्थान पर प्रदर्शन करते थे?",
+    "options_en": ["Red Fort", "India Gate", "Vishwanath Temple", "Qutub Minar"],
+    "options_hi": ["लाल किला", "इंडिया गेट", "विश्वनाथ मंदिर", "कुतुब मीनार"],
+    "answer": 2
+  },
+  {
+    "question_en": "What is the theme of Evelyn’s story?",
+    "question_hi": "एवलिन की कहानी का मुख्य संदेश क्या है?",
+    "options_en": ["Hard work and determination", "Luck", "Money", "Fame"],
+    "options_hi": ["कड़ी मेहनत और दृढ़ निश्चय", "भाग्य", "पैसा", "प्रसिद्धि"],
+    "answer": 0
+  },
+  {
+    "question_en": "Which award was Bismillah Khan given?",
+    "question_hi": "बिस्मिल्लाह खान को कौन सा पुरस्कार मिला?",
+    "options_en": ["Padma Shri", "Bharat Ratna", "Padma Bhushan", "All of these"],
+    "options_hi": ["पद्म श्री", "भारत रत्न", "पद्म भूषण", "ये सभी"],
+    "answer": 3
+  },
+  {
+    "question_en": "Why did Bismillah Khan refuse to settle abroad?",
+    "question_hi": "बिस्मिल्लाह खान ने विदेश में बसने से क्यों मना किया?",
+    "options_en": ["He loved India and Benaras", "He feared travel", "He was ill", "He had no money"],
+    "options_hi": ["उन्हें भारत और बनारस से प्रेम था", "उन्हें यात्रा से डर लगता था", "वे बीमार थे", "उनके पास पैसे नहीं थे"],
+    "answer": 0
+  },
+  {
+    "question_en": "What does the lesson teach us?",
+    "question_hi": "यह पाठ हमें क्या सिखाता है?",
+    "options_en": ["Value of music and determination", "Importance of money", "Power of machines", "Value of games"],
+    "options_hi": ["संगीत और दृढ़ निश्चय का महत्व", "पैसे का महत्व", "मशीनों की शक्ति", "खेलों का महत्व"],
+    "answer": 0
+  },
+  {
+    "question_en": "Evelyn listened to music through ______.",
+    "question_hi": "एवलिन संगीत को ______ के माध्यम से महसूस करती थी।",
+    "options_en": ["Her ears", "Her skin and body vibrations", "Headphones", "Speakers"],
+    "options_hi": ["अपने कानों से", "त्वचा और शरीर के कंपन से", "हेडफोन से", "स्पीकर से"],
+    "answer": 1
+  }
+]
