@@ -1,0 +1,9 @@
+[
+  {
+    "question_en": "Capital of India?",
+    "question_hi": "भारत की राजधानी क्या है?",
+    "options_en": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+    "options_hi": ["मुंबई", "दिल्ली", "चेन्नई", "कोलकाता"],
+    "answer": 1
+  }
+]
