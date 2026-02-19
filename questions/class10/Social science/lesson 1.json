@@ -1,0 +1,107 @@
+[
+  {
+    "question_en": "What is the meaning of power sharing?",
+    "question_hi": "सत्ता की साझेदारी का क्या अर्थ है?",
+    "options_en": ["Concentration of power", "Distribution of power among different organs", "Rule by one person", "Military rule"],
+    "options_hi": ["सत्ता का केंद्रीकरण", "सत्ता का विभिन्न अंगों में बंटवारा", "एक व्यक्ति का शासन", "सैन्य शासन"],
+    "answer": 1
+  },
+  {
+    "question_en": "Which country is given as an example of power sharing in the chapter?",
+    "question_hi": "अध्याय में सत्ता की साझेदारी का उदाहरण किस देश से दिया गया है?",
+    "options_en": ["India", "Sri Lanka", "Belgium", "Nepal"],
+    "options_hi": ["भारत", "श्रीलंका", "बेल्जियम", "नेपाल"],
+    "answer": 2
+  },
+  {
+    "question_en": "What was the ethnic composition of Belgium?",
+    "question_hi": "बेल्जियम की जातीय संरचना कैसी थी?",
+    "options_en": ["Single community", "Two main communities", "Only French speakers", "Only Dutch speakers"],
+    "options_hi": ["एक ही समुदाय", "दो मुख्य समुदाय", "केवल फ्रेंच भाषी", "केवल डच भाषी"],
+    "answer": 1
+  },
+  {
+    "question_en": "Which language community was in majority in Belgium?",
+    "question_hi": "बेल्जियम में कौन सा भाषाई समुदाय बहुसंख्यक था?",
+    "options_en": ["French-speaking", "Dutch-speaking", "German-speaking", "English-speaking"],
+    "options_hi": ["फ्रेंच भाषी", "डच भाषी", "जर्मन भाषी", "अंग्रेज़ी भाषी"],
+    "answer": 1
+  },
+  {
+    "question_en": "What was the major issue in Sri Lanka?",
+    "question_hi": "श्रीलंका में मुख्य समस्या क्या थी?",
+    "options_en": ["Language conflict", "Water dispute", "Trade issue", "Border dispute"],
+    "options_hi": ["भाषाई संघर्ष", "जल विवाद", "व्यापार विवाद", "सीमा विवाद"],
+    "answer": 0
+  },
+  {
+    "question_en": "Which community was in majority in Sri Lanka?",
+    "question_hi": "श्रीलंका में कौन सा समुदाय बहुसंख्यक था?",
+    "options_en": ["Tamil", "Sinhala", "Dutch", "French"],
+    "options_hi": ["तमिल", "सिंहला", "डच", "फ्रेंच"],
+    "answer": 1
+  },
+  {
+    "question_en": "Power sharing is desirable because it reduces ______.",
+    "question_hi": "सत्ता की साझेदारी वांछनीय है क्योंकि यह ______ को कम करती है।",
+    "options_en": ["conflicts", "production", "education", "population"],
+    "options_hi": ["संघर्ष", "उत्पादन", "शिक्षा", "जनसंख्या"],
+    "answer": 0
+  },
+  {
+    "question_en": "Which form of power sharing is among different organs of government?",
+    "question_hi": "सरकार के विभिन्न अंगों के बीच सत्ता बाँटने को क्या कहते हैं?",
+    "options_en": ["Horizontal power sharing", "Vertical power sharing", "Community power sharing", "Political power sharing"],
+    "options_hi": ["क्षैतिज सत्ता साझेदारी", "ऊर्ध्वाधर सत्ता साझेदारी", "सामुदायिक सत्ता साझेदारी", "राजनीतिक सत्ता साझेदारी"],
+    "answer": 0
+  },
+  {
+    "question_en": "Power sharing between central and state governments is called ______.",
+    "question_hi": "केंद्र और राज्य सरकारों के बीच सत्ता बाँटने को क्या कहते हैं?",
+    "options_en": ["Horizontal", "Vertical", "Community", "Local"],
+    "options_hi": ["क्षैतिज", "ऊर्ध्वाधर", "सामुदायिक", "स्थानीय"],
+    "answer": 1
+  },
+  {
+    "question_en": "Which city was the capital of Belgium?",
+    "question_hi": "बेल्जियम की राजधानी कौन सा शहर था?",
+    "options_en": ["Brussels", "Colombo", "Paris", "Amsterdam"],
+    "options_hi": ["ब्रसेल्स", "कोलंबो", "पेरिस", "एम्स्टर्डम"],
+    "answer": 0
+  },
+  {
+    "question_en": "Why did the Belgian leaders adopt power sharing?",
+    "question_hi": "बेल्जियम के नेताओं ने सत्ता की साझेदारी क्यों अपनाई?",
+    "options_en": ["To avoid conflict", "To increase taxes", "To win war", "To control media"],
+    "options_hi": ["संघर्ष से बचने के लिए", "कर बढ़ाने के लिए", "युद्ध जीतने के लिए", "मीडिया नियंत्रित करने के लिए"],
+    "answer": 0
+  },
+  {
+    "question_en": "Majoritarianism in Sri Lanka benefited which community?",
+    "question_hi": "श्रीलंका में बहुसंख्यकवाद से किस समुदाय को लाभ हुआ?",
+    "options_en": ["Tamils", "Sinhala", "Dutch", "Indians"],
+    "options_hi": ["तमिल", "सिंहला", "डच", "भारतीय"],
+    "answer": 1
+  },
+  {
+    "question_en": "Which system ensures respect for diverse groups?",
+    "question_hi": "कौन सी व्यवस्था विभिन्न समूहों के सम्मान को सुनिश्चित करती है?",
+    "options_en": ["Power sharing", "Dictatorship", "Monarchy", "Military rule"],
+    "options_hi": ["सत्ता की साझेदारी", "तानाशाही", "राजतंत्र", "सैन्य शासन"],
+    "answer": 0
+  },
+  {
+    "question_en": "Power sharing is the spirit of ______.",
+    "question_hi": "सत्ता की साझेदारी ______ की भावना है।",
+    "options_en": ["Democracy", "Dictatorship", "Monarchy", "Colonialism"],
+    "options_hi": ["लोकतंत्र", "तानाशाही", "राजतंत्र", "उपनिवेशवाद"],
+    "answer": 0
+  },
+  {
+    "question_en": "Which type of power sharing involves political parties and pressure groups?",
+    "question_hi": "किस प्रकार की सत्ता साझेदारी में राजनीतिक दल और दबाव समूह शामिल होते हैं?",
+    "options_en": ["Horizontal", "Vertical", "Political", "Community"],
+    "options_hi": ["क्षैतिज", "ऊर्ध्वाधर", "राजनीतिक", "सामुदायिक"],
+    "answer": 2
+  }
+]
